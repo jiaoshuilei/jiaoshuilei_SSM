@@ -19,7 +19,12 @@ package com.jiaoshuilei;
  */
 public class HelloController {
 
+
 	public void test2() {
 		
 	}
+
+	
+	public void test1(){}
+
 }
