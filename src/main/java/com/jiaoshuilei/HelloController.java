@@ -18,7 +18,6 @@ package com.jiaoshuilei;
  * @date: 2019年8月8日 上午9:09:43  
  */
 public class HelloController {
-
-	//1111
-	//22222
+	
+	public void test1(){}
 }
