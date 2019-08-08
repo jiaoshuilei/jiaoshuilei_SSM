@@ -19,6 +19,7 @@ package com.jiaoshuilei;
  */
 public class HelloController {
 
-	//1111
-	//22222
+	public void test2() {
+		
+	}
 }
